@@ -1,4 +1,4 @@
-                          Diabetes Prediction Web App (SVM Model)
+                                                Diabetes Prediction Web App (SVM Model)
 Project Overview:
   This project is a Machine Learning based Diabetes Prediction Web Application built using:
     Python
