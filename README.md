@@ -43,5 +43,7 @@ Web Application:
     Get prediction instantly.
 
 Sample Output:
+
   If predicted value = 0 → The person is NOT Diabetic,
+  
   If predicted value = 1 → The person is Diabetic
